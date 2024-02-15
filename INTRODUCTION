@@ -1,0 +1,17 @@
+MERN STACK
+M = mongo db used as a database
+E = express JS used for api backend
+R = React JS   used for developing frontend
+N = Node js used for backend
+
+Roles of each technologies
+1 Mongodb -> database which is a nosql database.There are Libraries in Mongodb.
+2 Expressjs -> APIs used to create APIs and it is a backend part.
+3 React JS -> JS Library used to make UI.
+4 NodeJS - Bakend JS-> server
+
+HTML: creates the structuree of webpage.
+CSS : Used for design, and apperance layout of the webpage.
+Javscript: To make dynamic and interactive websites.
+Inside the head part there are meta components and inside the body it contains of the main details.
+  
